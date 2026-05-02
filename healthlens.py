@@ -29,7 +29,7 @@ html, body, [class*="css"] {
     color: #1A1A1A;
 }
 .block-container {
-    padding: 0 2rem 6rem 2rem;
+    padding: 3rem 2rem 6rem 2rem;
     max-width: 820px;
 }
 
